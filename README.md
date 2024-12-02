@@ -15,6 +15,7 @@
 		- Les formats qui sont supportés par le moteur (FBX,OBJ) ?
 		- Est ce que il y a des plugins ou des outils qui facilite la gestion des animations ou d'intégrer les assets ?
 		- Quelles sont les paramètres utilisés pour contrôlé les transitions entre les états ? 
+		- Comment sont gérer les états et les transitions ?
 
 	 - Fonctionnement d'un FSM :
 		- Etats : états qui représente une animation (Idle, Run...)
